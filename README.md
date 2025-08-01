@@ -12,8 +12,6 @@ A stylish and lightweight web page that displays the **current Year, Month, Day,
 
 👉 Comming Soon...
 
-> Replace the link with your GitHub Pages URL
-
 ---
 
 ## ✨ Features
