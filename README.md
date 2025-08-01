@@ -1,47 +1,38 @@
 # ⏰ Live Current Time Display
 
-A stylish and lightweight web page that displays the **current Year, Month, Day, Hour, Minute, and Second**, updated in real time. Built using **HTML**, **Tailwind CSS**, and **Vanilla JavaScript**, this project is perfect for learning dynamic DOM manipulation and responsive UI design.
+A sleek and responsive web application that displays the **current Year, Month, Day, Hour, Minute, and Second** — updating every second in real time. Built using **HTML**, **Tailwind CSS**, and **Vanilla JavaScript**, this project is ideal for those exploring time-based DOM updates and responsive design using utility-first CSS.
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Tailwind CSS](https://img.shields.io/badge/styled%20with-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-Structure-E34F26?logo=html5&logoColor=white)
+<p align="center">
+  <img src="./screenshot.png" alt="Preview" width="100%" style="border-radius: 12px;">
+</p>
 
 ---
 
 ## 🚀 Live Demo
 
-👉 Coming Soon...
+🔗 **Coming Soon...**
 
 ---
 
 ## ✨ Features
 
-- ⏱️ Real-time updating clock
-- 🖥️ Clean and responsive layout
-- 🎨 Modern dark theme with vibrant green highlights
-- 📄 One single HTML file (easy to deploy or embed)
-- ✅ Emoji icons for intuitive labeling
+- ⏱️ Live time display (updates every second)
+- 💡 Lightweight and beginner-friendly code
+- 🎨 Dark mode with elegant Tailwind styling
+- 📱 Fully responsive layout
+- 💾 Simple file structure (HTML + JS only)
+- 📦 CDN-based — no installation or build required
 
 ---
 
-## 🛠️ Used Technologies
+## 🛠️ Technologies Used
 
-| 💻 Technology       | 📋 Description                                          |
-|---------------------|---------------------------------------------------------|
-| **HTML5**           | Page structure and layout                               |
-| **Tailwind CSS**    | Utility-first framework for styling via CDN             |
-| **JavaScript (ES6)**| Time logic with `Date()` and real-time updates via `setInterval()` |
-| **Tailwind CDN**    | No setup or build tools — just plug & play styling      |
-
----
-
-## 📦 Tech Badges
-
-![HTML5](https://img.shields.io/badge/HTML5-Structure-E34F26?logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Styling-38BDF8?logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Dynamic-F7DF1E?logo=javascript&logoColor=black)
-![CDN](https://img.shields.io/badge/Tailwind-CDN-0F172A?logo=cloudflare&logoColor=orange)
+| 💻 Tech            | 🔍 Description                                                  |
+|-------------------|-----------------------------------------------------------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-Structure-E34F26?logo=html5&logoColor=white) | Markup for structuring content                      |
+| ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Styling-38BDF8?logo=tailwindcss&logoColor=white) | Utility-first CSS framework via CDN                |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black) | Used to fetch and update time dynamically          |
+| ![CDN](https://img.shields.io/badge/CDN-Plug%20&%20Play-0F172A?logo=cloudflare&logoColor=orange) | No installation or build tools required            |
 
 ---
 
