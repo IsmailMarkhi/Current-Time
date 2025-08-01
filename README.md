@@ -20,10 +20,8 @@ Built with **HTML**, **Tailwind CSS**, and **Vanilla JavaScript**, this project 
 
 - ✅ Live time updates (per second)
 - 🎨 Sleek dark mode using Tailwind utility classes
-- 📱 Mobile-first responsive layout
 - 🧠 Clean DOM logic with ES6 syntax
 - ⚡ Instant styling via Tailwind CDN
-- 🌐 Minimal setup – no installs or frameworks needed
 
 ---
 
