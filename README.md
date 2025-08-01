@@ -5,7 +5,7 @@ A beautifully styled, fully responsive web app that shows the **current Year, Mo
 Built with **HTML**, **Tailwind CSS**, and **Vanilla JavaScript**, this project is perfect for beginners and frontend developers looking to master dynamic DOM manipulation with clean, utility-first styling.
 
 <p align="center">
-  <img src="currentTim.png" alt="Live Clock Preview" width="600">
+  <img src="CurrentTim.png" alt="Live Clock Preview" width="600">
 </p>
 
 ---
@@ -38,5 +38,5 @@ Built with **HTML**, **Tailwind CSS**, and **Vanilla JavaScript**, this project 
 
 ## 📁 Project Structure
 
-├── 📄 current.html   → Main HTML file with structure and styling via Tailwind
+├── 📄 current.html   → Main HTML file with structure and styling via Tailwind |
 └── 📄 current.js     → JavaScript file responsible for real-time clock updates
