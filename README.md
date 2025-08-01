@@ -42,4 +42,5 @@ A stylish and lightweight web page that displays the **current Year, Month, Day,
 ---
 
 ## 📁 File Structure
-
+current.html
+current.js
